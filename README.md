@@ -1,6 +1,6 @@
 # Hi!
 
-My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, and running (in no particular order).
+My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, and running (in no particular order). Thanks for stopping by!
 
 🧬 Building powerful solutions to computational genetics research questions at [GramLabs](https://github.com/gram-labs) for my PhD.
 
@@ -8,7 +8,7 @@ My name is gram. I like science, technology, sneakers, e-commerce, photography, 
 
 ## idk
 
-Message me on [Twitter](https://twitter.com/washedgram) or open an issue if you have a question about one of my open-source repos. I don't really keep them up-to-date unless someone asks me about it, so take that as you will. I'm always interested in a new adventure, so if you want something built that doesn't exist yet, my DMs are always open. Thanks for stopping by!
+Message me on [Twitter](https://twitter.com/washedgram) or open an issue if you have a question about one of my open-source repos. I don't really keep them up-to-date unless someone asks me about it, so take that as you will. I'm always interested in a new adventure, so if you want something built that doesn't exist yet, my DMs are always open.
 
 ## idk 2
 
