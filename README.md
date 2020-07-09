@@ -4,7 +4,7 @@ My name is gram. I like science, technology, sneakers, e-commerce, photography, 
 
 🧬 Building powerful solutions to computational genetics research questions at [GramLabs](https://github.com/gram-labs) for my PhD.
 
-👟 Playing cat-and-mouse with your favorite e-commerce solutions with ??? and wasting time on [Twitter](https://twitter.com/washedgram) when I'm bored.
+👟 Playing cat-and-mouse with your favorite e-commerce solutions and collecting clout tokens on [Twitter](https://twitter.com/washedgram) when I'm bored.
 
 ## idk
 
