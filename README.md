@@ -1,10 +1,10 @@
 # Hi!
 
-My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, and running (in no particular order). Thanks for stopping by!
+My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, running, and traveling (in no particular order). Thanks for stopping by my page!
 
 🧬 Building powerful solutions to computational genetics research questions at [GramLabs](https://github.com/gram-labs) for my PhD.
 
-👟 Playing cat-and-mouse with your favorite e-commerce solutions and collecting clout tokens on [Twitter](https://twitter.com/washedgram) when I'm bored.
+👟 Playing cat-and-mouse with your favorite e-commerce solutions and collecting clout tokens [online](https://twitter.com/washedgram) when I'm bored.
 
 ## idk
 
