@@ -2,7 +2,7 @@
 
 My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, running, and traveling (in no particular order). Thanks for stopping by my page!
 
-🧬 Building powerful solutions to computational genetics research questions at [GramLabs](https://github.com/gram-labs) for my PhD.
+🧬 Building powerful solutions to computational genetics research questions on my quest towards a PhD and never managing to leave school.
 
 👟 Playing cat-and-mouse with your favorite e-commerce solutions and collecting clout tokens [online](https://twitter.com/washedgram) when I'm bored.
 
