@@ -2,7 +2,7 @@
 
 My name is gram. I like science, technology, sneakers, e-commerce, photography, contemporary art, running, and Thai food (in no particular order). Thanks for stopping by my page!
 
-🧬 Building powerful solutions to biomedical research questions on my quest towards a PhD in computational genetics.
+🧬 Building powerful ML solutions to biomedical research questions on my quest towards a PhD in computational genetics.
 
 👟 Playing cat-and-mouse with your favorite e-commerce solutions and collecting clout tokens online in my free time.
 
